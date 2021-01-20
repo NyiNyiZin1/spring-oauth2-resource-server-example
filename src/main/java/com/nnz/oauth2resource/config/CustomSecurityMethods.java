@@ -1,4 +1,4 @@
-package com.isgm.oauth2resource.config;
+package com.nnz.oauth2resource.config;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.oauth2.server.resource.authentication.JwtAuthenticationToken;
@@ -15,7 +15,7 @@ public class CustomSecurityMethods {
     public boolean checkIss(){
         if(authentication instanceof JwtAuthenticationToken){
             JwtAuthenticationToken token = (JwtAuthenticationToken)authentication;
-            return token.getToken().getClaim("iss").equals("https://isgm2.com");
+            return token.getToken().getClaim("iss").equals("https://nnz.com");
         }
         return false;
     }

@@ -1,4 +1,4 @@
-package com.isgm.oauth2resource.controllers;
+package com.nnz.oauth2resource.controllers;
 
 import java.util.Map;
 

@@ -1,4 +1,4 @@
-package com.isgm.oauth2resource;
+package com.nnz.oauth2resource;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.isgm.oauth2resource.config;
+package com.nnz.oauth2resource.config;
 
 import org.aopalliance.intercept.MethodInvocation;
 import org.springframework.expression.spel.support.StandardEvaluationContext;

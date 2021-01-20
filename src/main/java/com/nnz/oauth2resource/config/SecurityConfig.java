@@ -1,4 +1,4 @@
-package com.isgm.oauth2resource.config;
+package com.nnz.oauth2resource.config;
 
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;

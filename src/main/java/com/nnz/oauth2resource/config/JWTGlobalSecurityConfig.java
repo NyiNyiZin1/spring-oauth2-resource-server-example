@@ -1,4 +1,4 @@
-package com.isgm.oauth2resource.config;
+package com.nnz.oauth2resource.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.access.expression.method.MethodSecurityExpressionHandler;

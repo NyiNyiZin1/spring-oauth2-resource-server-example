@@ -1,4 +1,4 @@
-package com.isgm.oauth2resource.controllers;
+package com.nnz.oauth2resource.controllers;
 
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.GetMapping;
